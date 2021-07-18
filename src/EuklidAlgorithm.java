@@ -1,4 +1,4 @@
-public class EuklidesAlgorithm {
+public class EuklidAlgorithm {
 
     //recursive version of Euklid algorithm
     public int calculateGCD(int a, int b) {
