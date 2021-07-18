@@ -6,6 +6,6 @@ Repository containing some of the most popular and useful algorithms.
 - [Euklid algorithm](#euklid-algorithm)
 
 ## Binary search
-img/BinarySearch.png
+<p align="center"><a href="./src/BinarySearch.java"> <img src="./img/BinarySearch.png"></a></p>
 ## Euklid algorithm
 <p align="center"><a href="./src/EuklidAlgorithm.java"> <img src="./img/EuklidAlgorithm.png"></a></p>
